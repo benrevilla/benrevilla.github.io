@@ -1,0 +1,46 @@
+.position {
+    color: #00a72d;
+    font-size:40
+}
+
+h1 {
+    color: #3ba876;
+    font-size:30
+    
+}
+
+h2 {
+    color:#00a87b;
+}
+h3 {
+    color: #448d0f;
+    font-size: 19;
+    background-color:#b2f599
+}
+
+h4 {
+    color: #00a87b;
+    font-size:20;
+}
+
+h5 {
+    color: #5a3e6d;
+    font-size:13
+    }
+
+body {
+    background-color:#afffd1
+}
+
+.profilepic {
+    border-radius:90%
+}
+
+#left_col {
+    background-color: #62f7a1;
+    text-align:center
+}
+
+
+
+/******
