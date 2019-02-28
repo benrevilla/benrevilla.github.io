@@ -1,43 +1,45 @@
 .position {
-    color: #00a72d;
+    color: #000000;
     font-size:40
 }
 
 h1 {
-    color: #3ba876;
-    font-size:30
+    color: #000000;
+    font-size:29
     
 }
 
 h2 {
-    color:#00a87b;
+    color: #000000;
+    font-size:15
 }
 h3 {
-    color: #448d0f;
+    color: #000000;
     font-size: 19;
-    background-color:#b2f599
+    text-align:justify;
+    
 }
 
 h4 {
-    color: #00a87b;
+    color: #000000;
     font-size:20;
 }
 
 h5 {
-    color: #5a3e6d;
+    color: #000000;
     font-size:13
     }
 
 body {
-    background-color:#afffd1
+    background-color:#EEE8AA
 }
 
 .profilepic {
-    border-radius:90%
+    border-radius:50%
 }
 
 #left_col {
-    background-color: #62f7a1;
+    background-color: #F0E68C;
     text-align:center
 }
 
